@@ -1,14 +1,7 @@
-/* -*- Mode:C++; c-file-style:"gnu"; indent-tabs-mode:nil; -*- */
 /* *
- * Classical hidden terminal problem and its RTS/CTS solution.
- *
+ * 
  * Topology: [node 0] <-- -50 dB --> [node 1] <-- -50 dB --> [node 2]
- *
- * This example illustrates the use of
- *  - Wifi in ad-hoc mode
- *  - Matrix propagation loss model
- *  - Use of OnOffApplication to generate CBR stream
- *  - IP flow monitor
+ *r
  */
 
 #include "ns3/command-line.h"
